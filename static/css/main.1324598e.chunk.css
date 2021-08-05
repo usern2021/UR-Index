@@ -13,47 +13,47 @@ code {
 @font-face {
   font-family: "ubuntu";
   font-weight: 900;
-  src: url(../static/media/Ubuntu-Bold.50114233.ttf) format("truetype");
+  src: url(../media/Ubuntu-Bold.50114233.ttf) format("truetype");
 }
 @font-face {
   font-family: "ubuntu";
   font-weight: 300;
-  src: url(../static/media/Ubuntu-Light.c2bf1bb6.ttf) format("truetype");
+  src: url(../media/Ubuntu-Light.c2bf1bb6.ttf) format("truetype");
 }
 @font-face {
   font-family: "ubuntu";
   font-weight: 400;
-  src: url(../static/media/Ubuntu-Medium.90c045b7.ttf) format("truetype");
+  src: url(../media/Ubuntu-Medium.90c045b7.ttf) format("truetype");
 }
 @font-face {
   font-family: "ubuntu";
   font-weight: 500;
-  src: url(../static/media/Ubuntu-Regular.fbdecfce.ttf) format("truetype");
+  src: url(../media/Ubuntu-Regular.fbdecfce.ttf) format("truetype");
 }
 @font-face {
   font-family: "OpenSans";
   font-weight: 900;
-  src: url(../static/media/OpenSans-ExtraBold.110e781b.ttf) format("truetype");
+  src: url(../media/OpenSans-ExtraBold.110e781b.ttf) format("truetype");
 }
 @font-face {
   font-family: "OpenSans";
   font-weight: 700;
-  src: url(../static/media/OpenSans-Bold.dbb97fd9.ttf) format("truetype");
+  src: url(../media/OpenSans-Bold.dbb97fd9.ttf) format("truetype");
 }
 @font-face {
   font-family: "OpenSans";
   font-weight: 300;
-  src: url(../static/media/OpenSans-Light.ed41bedf.ttf) format("truetype");
+  src: url(../media/OpenSans-Light.ed41bedf.ttf) format("truetype");
 }
 @font-face {
   font-family: "OpenSans";
   font-weight: 400;
-  src: url(../static/media/OpenSans-Regular.1b0809d5.ttf) format("truetype");
+  src: url(../media/OpenSans-Regular.1b0809d5.ttf) format("truetype");
 }
 @font-face {
   font-family: "OpenSans";
   font-weight: 500;
-  src: url(../static/media/OpenSans-SemiBold.a16d8201.ttf) format("truetype");
+  src: url(../media/OpenSans-SemiBold.a16d8201.ttf) format("truetype");
 }
 .content {
   width: 1200px;
@@ -126,7 +126,7 @@ code {
   width: 400px;
   height: 200px;
   display: block;
-  background: url(../static/media/logo.e5da76bf.jpg);
+  background: url(../media/logo.e5da76bf.jpg);
   background-position: 50%;
 }
 @-webkit-keyframes startuplogo-fade {
